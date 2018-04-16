@@ -85,3 +85,21 @@ A can be relocated (i) after B, (ii) after C, (iii) after 0 (of the second route
 Note that (i) and (ii) are intra-route relocations and (iii) (iv) and (v) are inter-route relocations
 The relocation yielding the best solution cost improvement and satisfying the capacity constraints should be selected to be applied to the candidate solution. The method should terminate if no improving intra-route relocation can be identified.
 Note 1: In the companion document, provide the final solution (and the associated cost) and the total number of iterations required for obtaining this final solution.
+
+## Output routes
+
+### Final solution 
+
+![alt text](https://github.com/evagian/LargeScaleOptimizationVehicleRoutingProblem/blob/master/full-solution-after-intra.png)
+
+### Final solution details
+
+![alt text](https://github.com/evagian/LargeScaleOptimizationVehicleRoutingProblem/blob/master/output/Kazam_screenshot_00001.png)
+
+![alt text](https://github.com/evagian/LargeScaleOptimizationVehicleRoutingProblem/blob/master/output/Kazam_screenshot_00002.png)
+
+![alt text](https://github.com/evagian/LargeScaleOptimizationVehicleRoutingProblem/blob/master/output/Kazam_screenshot_00003.png)
+
+
+
+
