@@ -1,7 +1,8 @@
 # LargeScaleOptimizationVehicleRoutingProblem
 Java application for dealing with the Vehicle Routing Problem.
 
-The Java code is available here https://github.com/evagian/LargeScaleOptimizationVehicleRoutingProblem/tree/master/src/project
+The Java code is available here: 
+https://github.com/evagian/LargeScaleOptimizationVehicleRoutingProblem/blob/master/src/project/VRPComponents.java
 
 ### H3 Large Scale Optimization Assignment
 
